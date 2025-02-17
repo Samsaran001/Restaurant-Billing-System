@@ -1,0 +1,10 @@
+
+
+Need url:
+
+ https://pypi.org/
+
+Need Server:
+
+  Mysql server84
+
