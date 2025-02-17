@@ -1,8 +1,12 @@
 
 
-Need url:
+Need lib:
+     
+    1.pip install mysql-connector-python
+    2.pip install qrcode
+    3.pip3 install Pillow
+    4.pip install opencv-python
 
- https://pypi.org/
 
 Need Server:
 
